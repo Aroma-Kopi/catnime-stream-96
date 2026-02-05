@@ -34,7 +34,7 @@ export default function Navbar({ searchQuery = '' }: NavbarProps) {
                 <div className="flex shrink-0 items-center rounded-full">
                   <img
                     alt="Your Company"
-                    src="/WhatsApp Image 2026-01-31 at 01.05.14.jpeg"
+                    src="/CatNime.png"
                     className="h-10 w-auto rounded-full"
                   />
                 </div>
