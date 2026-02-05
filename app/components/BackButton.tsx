@@ -9,7 +9,7 @@ export default function BackButton() {
       onClick={() => router.back()} 
       className="text-sm text-gray-400 hover:text-white transition"
     >
-      Kembali
+      Kembalil
     </button>
   );
 }
