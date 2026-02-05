@@ -81,7 +81,7 @@ export default async function Page({
                 <Link
                   key={r}
                   // Reset index ke 0 saat ganti resolusi
-                  href={`/watch/${id}?reso=${r}`}
+                  href={`/Video/${id}?reso=${r}`}
                   scroll={false}
                   className={`px-4 py-2 rounded-lg text-sm font-bold transition border border-white/10 ${
                     activeReso === r 
